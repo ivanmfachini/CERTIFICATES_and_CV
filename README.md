@@ -1,1 +1,1 @@
-You can access my certificates faster via the link: [https://ivanmfac.onrender.com/certificates](https://ivanmfac.onrender.com/certificates), since displaying pdf files is not github's purpuse. 
+You can also access it on [https://ivanmfac.onrender.com/certificates](https://ivanmfac.onrender.com/certificates)
